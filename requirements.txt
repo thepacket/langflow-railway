@@ -1,2 +1,2 @@
-
+wolframalpha
 langflow>==0.0.73
