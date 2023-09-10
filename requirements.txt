@@ -1,5 +1,4 @@
 wolframalpha
 numpy
 matplotlib
-psutil
 langflow>==0.0.73
